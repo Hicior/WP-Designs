@@ -1,0 +1,13 @@
+## Design principles
+
+- create a clean, professional and modern design
+- do not use border-radius for cards
+
+## Colors
+
+--primary-color: #0a2134;
+--text-color: #1b191a;
+
+## Fonts
+
+--font-family: 'InstrumentSans',Helvetica,Arial,Lucida,sans-serif;
